@@ -1,6 +1,6 @@
 # bitcoin_tracker
 
-A new Flutter project.
+A Flutter Project implies the application of APIs and integrating the web with the app to fetch and showcase data.
 
 ## Getting Started
 
